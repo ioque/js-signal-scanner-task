@@ -8,6 +8,5 @@ export type Deal = {
 export type Signal = {
     ticker: string;
     openPrice: number;
-    algorithm: "ANOMALY_VOLUME" | "DELTA ANALYSIS";
     date: Date;
 }

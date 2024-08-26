@@ -7,13 +7,11 @@ describe('signal-scanner module', () => {
             {
                 ticker: "TGKN",
                 openPrice: "16",
-                algorithm: "ANOMALY_VOLUME",
                 date: new Date(2024, 8, 26, 10, 14, 40, 0)
             },
             {
                 ticker: "SBERP",
                 openPrice: "239",
-                algorithm: "DELTA ANALYSIS",
                 date: new Date(2024, 8, 26, 10, 13, 0, 0)
             }
         ]
